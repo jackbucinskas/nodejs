@@ -1,2 +1,2 @@
 # nodejs
-Testing docker development environment for Node.js
+Testing Docker - Full Stack App development environment including Node.js, Express, React and MongoDB
